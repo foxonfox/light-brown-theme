@@ -1,0 +1,22 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "io.github.foxonfox.light.brown.theme",
+  "name": "Light Brown",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "A pleasure to look at",
+  "url": "https://cdn.jsdelivr.net/gh/foxonfox/light-brown-theme@master/dist/dist.css",
+  "download_url": "https://github.com/foxonfox/light-brown-theme/archive/1.0.0.zip",
+  "latest_url": "https://listed.to/p/SBYrpm4wsH",
+  "dock_icon": {
+      "type": "circle",
+      "background_color": "#D68420",
+      "foreground_color": "#D68420",
+      "border_color": "#D68420"
+      },
+      "statusBar": "dark-content"
+}
