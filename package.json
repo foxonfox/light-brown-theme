@@ -1,5 +1,5 @@
 {
-  "name": "sn-theme-autobiography",
+  "name": "light-brown-theme",
   "version": "1.0.0",
   "main": "dist/dist.css",
   "devDependencies": {
@@ -10,5 +10,8 @@
   },
   "sn": {
     "main": "dist/dist.css"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/foxonfox/light-brown-theme.git"
   }
 }
